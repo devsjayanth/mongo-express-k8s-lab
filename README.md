@@ -21,6 +21,7 @@
     kubectl describe pod mongodb-deployment-xxxxxx
     kubectl describe service mongodb-service
     kubectl logs mongo-express-xxxxxx
-Note: Mongo-Express default credentials
+### Note: Mongo-Express default credentials
+
     Username: admin
     Password: pass
