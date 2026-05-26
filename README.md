@@ -1,5 +1,5 @@
-# mongo-express-k8s-lab
-
+# Mongo-Express-K8s-Lab
+Mongo Express + MongoDB simple application setup for learning k8s.
 ### kubectl apply commands in order
     
     kubectl apply -f mongo-secret.yaml
